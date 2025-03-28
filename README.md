@@ -28,7 +28,7 @@ With a multidisciplinary background in **computer engineering, political science
 - 📡 **Networking & System Admin:** Cisco (CCNA), Firewalls, VPNs, Windows & Linux Servers  
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakan-sinal-89b822151)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheLastKhan)  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/hakan-sinal-89b822151)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/TheLastKhan)  
 
 🔹 **Always eager to learn, innovate, and build secure, scalable systems.**  
