@@ -23,7 +23,7 @@ With a multidisciplinary background in **computer engineering, political science
 ### 💡 What I Do  
 
 - 🖥 **Programming:** Python, Java, JavaScript, C#  
-- 🌐 **Full-Stack Development:** Node.js, React, Express.js, Next.js  
+- 🌐 **Full-Stack Development:** React, Node.js, Express.js, Next.js  
 - 🛠 **DevOps & Security:** Docker, Kubernetes, CI/CD, Linux Administration, Cloud Computing  
 - 📡 **Networking & System Admin:** Cisco (CCNA), Firewalls, VPNs, Windows & Linux Servers  
 
