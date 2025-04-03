@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🚀 Computer Engineer | DevSecOps & Full-Stack Developer | Network & Security Enthusiast  
+## 🚀 Computer Engineer | DevSecOps & Full-Stack Developer | Network & System & Cyber Security Enthusiast  
 
 Passionate about software development, system & network engineering, and cybersecurity.  
 With a multidisciplinary background in **computer engineering, political science, and sociology**, I combine technical expertise with analytical thinking.  
