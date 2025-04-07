@@ -22,11 +22,11 @@ With a multidisciplinary background in **computer engineering, political science
 
 ### 💡 Technical Skills  
 
--🖥 Programming & Development: Python, Java, JavaScript, C#
--🌐 Full-Stack Technologies: React, React Native, Node.js, Next.js, Express.js
--🛠 DevOps & Security: Docker, Kubernetes, CI/CD, Linux Administration, Cloud Computing
--📡 Networking & System Admin: Cisco (CCNA), Firewalls, VPNs, Windows & Linux Servers
--🛡️ Cybersecurity: Ethical Hacking, Pentesting, Reverse Engineering, Secure Coding, Vulnerability Scanning
+- 🖥 Programming & Development: Python, Java, JavaScript, C#
+- 🌐 Full-Stack Technologies: React, React Native, Node.js, Next.js, Express.js
+- 🛠 DevOps & Security: Docker, Kubernetes, CI/CD, Linux Administration, Cloud Computing
+- 📡 Networking & System Admin: Cisco (CCNA), Firewalls, VPNs, Windows & Linux Servers
+- 🛡️ Cybersecurity: Ethical Hacking, Pentesting, Reverse Engineering, Secure Coding, Vulnerability Scanning
 
 ### 📫 Connect with Me  
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/hakan-sinal-89b822151)  
