@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Passionate about software development, system & network engineering, and cybersecurity.  
 With a multidisciplinary background in **computer engineering, political science, and sociology**, I combine technical expertise with analytical thinking.  
 
-### Technical Skills  
+### 🔧 Technical Skills  
 
 - 🖥 Programming & Development: Python, Java, JavaScript, C#
 - 🌐 Full-Stack Technologies: React, React Native, Node.js, Next.js, Express.js
