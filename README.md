@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There !!! 👋
 
 <!--
 **TheLastKhan/TheLastKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +32,7 @@ With a multidisciplinary background in **computer engineering, political science
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/hakan-sinal-89b822151)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/TheLastKhan)  
 
-🐣 Check out my website! -> [thelastkhan.github.io](https://thelastkhan.github.io)
+🐣 Check out my website ! -> [thelastkhan.github.io](https://thelastkhan.github.io)
 
 🔹 **Always eager to learn, innovate, and build secure, scalable systems.**  
 
