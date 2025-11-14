@@ -36,4 +36,4 @@ With a multidisciplinary background in **computer engineering, political science
 
 ### 🐣 Check out my website ! -> [thelastkhan.github.io](https://thelastkhan.github.io)
 
-🔹 **Always eager to learn, innovate, and build secure, scalable systems.**  
+🔹 **Always eager to learn, innovate, and build secure, scalable systems.** 
