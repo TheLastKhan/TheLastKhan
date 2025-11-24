@@ -32,7 +32,7 @@ With a multidisciplinary background in **computer engineering, political science
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/hakan-sinal-89b822151)  
 [![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-181717?logo=github-white&logoColor=fff)](https://github.com/TheLastKhan)  
 [![IMDb](https://custom-icon-badges.demolab.com/badge/IMDb-F5C518?logo=imdb&logoColor=000)](https://www.imdb.com/user/ur161542088/watchlist/?ref_=hm_nv_urwls_all&sort=num_votes%2Cdesc)  
-[![YouTube](https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?logo=youtube-white&logoColor=fff)](https://www.youtube.com/feed/playlists)
+[![YouTube](https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?logo=youtube-white&logoColor=fff)](https://www.youtube.com/@hakansinal/playlists)
 
 ### 🐣 Check out my website ! -> [thelastkhan.github.io](https://thelastkhan.github.io)
 
