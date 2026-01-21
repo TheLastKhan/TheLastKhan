@@ -4,9 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Computer+Engineer;DevSecOps+%26+Full-Stack+Developer;Network+%26+System+%26+Cyber+Security+Enthusiast;☭+Code+for+the+People!)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=TheLastKhan&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/TheLastKhan?style=for-the-badge&color=ff69b4)
-
 </div>
 
 ---
