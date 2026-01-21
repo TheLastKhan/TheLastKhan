@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Computer+Engineer;DevSecOps+%26+Full-Stack+Developer;Network+%26+System+%26+Cyber+Security+Enthusiast;☭+Code+for+the+People!)](https://git.io/typing-svg)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTheLastKhan&label=Total%20Visitors&labelColor=%23697689&countColor=%23F85D7F)
-
 </div>
 
 ---
@@ -131,6 +129,9 @@ With a multidisciplinary background in **computer engineering, political science
 <div align="center">
 
 🔹 **Always eager to learn, innovate, and build secure, scalable systems.** 🔹
+
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTheLastKhan&label=Total%20Visitors&labelColor=%23697689&countColor=%23F85D7F)
 
 </div>
 
