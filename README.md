@@ -16,7 +16,7 @@
 Passionate about software development, system & network engineering, and cybersecurity.  
 With a multidisciplinary background in **computer engineering, political science, and sociology**, I combine technical expertise with analytical thinking.
 
-![Comrade Badge](https://img.shields.io/badge/☭_Workers_of_Code_Unite!-CC0000?style=for-the-badge&logoColor=white)
+![Comrade Badge](https://img.shields.io/badge/☭CC0000?style=for-the-badge&logoColor=white)
 
 ---
 
