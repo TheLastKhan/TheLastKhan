@@ -1,9 +1,13 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=200&section=header&text=Hi%20There!%20👋&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=18)
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=💻+Computer+Engineer;🔐+DevSecOps+%26+Full-Stack+Developer;🛡️+Network+%26+System+%26+Cyber+Security+Enthusiast;☭+Code+for+the+People!)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheLastKhan&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/TheLastKhan?style=for-the-badge&color=ff69b4)
+
+</div>
 
 ---
 
@@ -120,19 +124,23 @@ With a multidisciplinary background in **computer engineering, political science
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/hakan-sinal-89b822151)  
 [![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-181717?logo=github-white&logoColor=fff)](https://github.com/TheLastKhan)  
 [![IMDb](https://custom-icon-badges.demolab.com/badge/IMDb-F5C518?logo=imdb&logoColor=000)](https://www.imdb.com/user/ur161542088/watchlist/?ref_=hm_nv_urwls_all&sort=num_votes%2Cdesc)  
-[![YouTube](https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?logo=youtube-white&logoColor=fff)](https://www.youtube.com/@hakansinal/playlists)
+[![YouTube](https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?logo=youtube-white&logoColor=fff)](https://www.youtube.com/@hakansinal/playlists)  
 [![RainyMood](https://img.shields.io/badge/🌧️_RainyMood-4A90A4?style=flat)](https://www.rainymood.com/)
 
 ---
 
 ## 🐣 Check out my website!
 
-### 🌐 [thelastkhan.github.io](https://thelastkhan.github.io)
+### 🌐 [thelastkhan.github.io](https://thelastkhan.github.io) [![Website](https://img.shields.io/badge/🌍_Visit-4285F4?style=flat)](https://thelastkhan.github.io)
 
 ---
+
+<div align="center">
 
 🔹 **Always eager to learn, innovate, and build secure, scalable systems.** 🔹
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTheLastKhan&label=Total%20Visitors&labelColor=%23697689&countColor=%23F85D7F)
+
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=100&section=footer)
