@@ -105,7 +105,7 @@ With a multidisciplinary background in **computer engineering, political science
 
 ---
 
-## 🎭 Matrix Rain Effect
+## 🎭 Matrix Rain
 
 ![Matrix](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
@@ -129,7 +129,7 @@ With a multidisciplinary background in **computer engineering, political science
 
 ## 🐣 Check out my website!
 
-### 🌐 [thelastkhan.github.io](https://thelastkhan.github.io) [![Website](https://img.shields.io/badge/🌍_Visit-4285F4?style=flat)](https://thelastkhan.github.io)
+### [thelastkhan.github.io](https://thelastkhan.github.io)
 
 ---
 
