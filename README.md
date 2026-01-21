@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Hi%20There!%20👋&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=Hi%20There!%20👋&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=18)
 
 <div align="center">
 
@@ -134,4 +134,4 @@ With a multidisciplinary background in **computer engineering, political science
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=footer)
