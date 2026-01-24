@@ -24,10 +24,12 @@ With a multidisciplinary background in **computer engineering, political science
 
 ### 🌐 Full-Stack Technologies
 ![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark)
+<br>
 ![Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark)
 
 ### 🛠️ DevOps & Cloud
 ![Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,bash&theme=dark)
+<br>
 ![Skills](https://skillicons.dev/icons?i=aws,gcp,azure,githubactions&theme=dark)
 
 ### 🗄️ Databases
