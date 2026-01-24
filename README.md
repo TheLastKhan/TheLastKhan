@@ -54,7 +54,7 @@ With a multidisciplinary background in **computer engineering, political science
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-7D4698?style=for-the-badge&logo=ghidra&logoColor=white)
 ![Secure Coding](https://img.shields.io/badge/Secure_Coding-00ADD8?style=for-the-badge&logo=owasp&logoColor=white)
-![Vulnerability Scanning](https://img.shields.io/badge/Vulnerability_Scanning-1679A7?style=for-the-badge&logo=nmap&logoColor=white)
+![Vulnerability Scanning](https://img.shields.io/badge/Vulnerability_Scanning-1679A7?style=for-the-badge&logo=nmap&logoColor=white)  
 
 ---
 
