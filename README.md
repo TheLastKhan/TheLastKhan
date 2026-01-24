@@ -66,12 +66,6 @@ With a multidisciplinary background in **computer engineering, political science
 
 ---
 
-## 🔥 Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=TheLastKhan&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F)](https://git.io/streak-stats)
-
----
-
 ## 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheLastKhan&theme=redical&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF)
