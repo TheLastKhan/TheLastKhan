@@ -94,6 +94,8 @@ With a multidisciplinary background in **computer engineering, political science
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<br>
+
 ---
 
 ## 😂 Random Dev Joke
