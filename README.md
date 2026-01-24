@@ -38,7 +38,7 @@ With a multidisciplinary background in **computer engineering, political science
 ### 🔨 Tools
 ![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark)
 
-### 📡 Networking & System Admin
+### 📡 Network & System
 ![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Firewalls](https://img.shields.io/badge/Firewalls-FF6F00?style=for-the-badge&logo=fortinet&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN-4B8BBE?style=for-the-badge&logo=wireguard&logoColor=white)  
@@ -51,10 +51,13 @@ With a multidisciplinary background in **computer engineering, political science
 ![Pentesting](https://img.shields.io/badge/Pentesting-E34F26?style=for-the-badge&logo=metasploit&logoColor=white)  
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-7D4698?style=for-the-badge&logo=ghidra&logoColor=white)
 ![Secure Coding](https://img.shields.io/badge/Secure_Coding-00ADD8?style=for-the-badge&logo=owasp&logoColor=white)
-![Vulnerability Scanning](https://img.shields.io/badge/Vulnerability_Scanning-1679A7?style=for-the-badge&logo=nmap&logoColor=white)  
+<br>
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+<br>
+![Vulnerability Scanning](https://img.shields.io/badge/Vulnerability_Scanning-1679A7?style=for-the-badge&logo=nmap&logoColor=white)  
+
 
 ---
 
