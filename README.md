@@ -24,18 +24,18 @@ With a multidisciplinary background in **computer engineering, political science
 ![Skills](https://skillicons.dev/icons?i=python,java,js,ts,cs&theme=dark)
 
 ### 🌐 Full-Stack Technologies
-![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark)
-![Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark)
+![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vue&theme=dark)
+![Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,redux&theme=dark)
 
 ### 🛠️ DevOps & Cloud
-![Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,bash&theme=dark)
-![Skills](https://skillicons.dev/icons?i=aws,gcp,azure,githubactions&theme=dark)
+![Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,nginx&theme=dark)
+![Skills](https://skillicons.dev/icons?i=aws,gcp,azure,prometheus,grafana&theme=dark)
 
 ### 🗄️ Databases
-![Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark)
+![Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite&theme=dark)
 
 ### 🔨 Tools
-![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark)
+![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,discord&theme=dark)
 
 ### 📡 Networking & System Admin
 ![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
