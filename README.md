@@ -30,13 +30,13 @@ With a multidisciplinary background in **computer engineering, political science
 ### 🛠️ DevOps & Cloud
 ![Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,nginx&theme=dark)
 <br>
-![Skills](https://skillicons.dev/icons?i=aws,gcp,azure,prometheus,grafana&theme=dark)
+![Skills](https://skillicons.dev/icons?i=aws,gcp,azure,grafana,prometheus&theme=dark)
 
 ### 🗄️ Databases
 ![Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite&theme=dark)
 
 ### 🔨 Tools
-![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,discord&theme=dark)
+![Skills](https://skillicons.dev/icons?i=git,github,vscode,discord,postman&theme=dark)
 
 ### 📡 Network & System
 ![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
