@@ -103,6 +103,8 @@ With a multidisciplinary background in **computer engineering, political science
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
+<br>
+
 ---
 
 ## 🎭 Matrix Rain
