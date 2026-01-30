@@ -63,9 +63,10 @@ With a multidisciplinary background in **computer engineering, political science
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheLastKhan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&cache_seconds=86400)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheLastKhan&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastKhan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&cache_seconds=86400)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheLastKhan&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheLastKhan&theme=radical)
 
 ---
 
