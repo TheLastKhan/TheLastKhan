@@ -1,11 +1,10 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=200&section=header&text=Hi%20There!%20👋&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=Hi%20There!%20👋&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=18)
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Computer+Engineer;DevSecOps+%26+Full-Stack+Developer;Network+%26+System+%26+Cyber+Security+Enthusiast;☭+Code+for+the+People!)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=TheLastKhan&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/TheLastKhan?style=for-the-badge&color=ff69b4)
+<br>
 
 </div>
 
@@ -25,10 +24,12 @@ With a multidisciplinary background in **computer engineering, political science
 
 ### 🌐 Full-Stack Technologies
 ![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vue&theme=dark)
+<br>
 ![Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,redux&theme=dark)
 
 ### 🛠️ DevOps & Cloud
 ![Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,nginx&theme=dark)
+<br>
 ![Skills](https://skillicons.dev/icons?i=aws,gcp,azure,prometheus,grafana&theme=dark)
 
 ### 🗄️ Databases
@@ -37,7 +38,7 @@ With a multidisciplinary background in **computer engineering, political science
 ### 🔨 Tools
 ![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,discord&theme=dark)
 
-### 📡 Networking & System Admin
+### 📡 Network & System
 ![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Firewalls](https://img.shields.io/badge/Firewalls-FF6F00?style=for-the-badge&logo=fortinet&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN-4B8BBE?style=for-the-badge&logo=wireguard&logoColor=white)  
@@ -48,12 +49,15 @@ With a multidisciplinary background in **computer engineering, political science
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 ![Pentesting](https://img.shields.io/badge/Pentesting-E34F26?style=for-the-badge&logo=metasploit&logoColor=white)  
-![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-7D4698?style=for-the-badge&logo=ghidra&logoColor=white)
-![Secure Coding](https://img.shields.io/badge/Secure_Coding-00ADD8?style=for-the-badge&logo=owasp&logoColor=white)
-![Vulnerability Scanning](https://img.shields.io/badge/Vulnerability_Scanning-1679A7?style=for-the-badge&logo=nmap&logoColor=white)  
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+<br>
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-7D4698?style=for-the-badge&logo=ghidra&logoColor=white)
+![Secure Coding](https://img.shields.io/badge/Secure_Coding-00ADD8?style=for-the-badge&logo=owasp&logoColor=white)
+<br>
+![Vulnerability Scanning](https://img.shields.io/badge/Vulnerability_Scanning-1679A7?style=for-the-badge&logo=nmap&logoColor=white)  
+
 
 ---
 
@@ -62,12 +66,6 @@ With a multidisciplinary background in **computer engineering, political science
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheLastKhan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastKhan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
----
-
-## 🔥 Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=TheLastKhan&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F)](https://git.io/streak-stats)
 
 ---
 
@@ -92,6 +90,8 @@ With a multidisciplinary background in **computer engineering, political science
 ## 💬 Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br>
 
 ---
 
@@ -133,8 +133,10 @@ With a multidisciplinary background in **computer engineering, political science
 
 🔹 **Always eager to learn, innovate, and build secure, scalable systems.** 🔹
 
+<br>
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTheLastKhan&label=Total%20Visitors&labelColor=%23697689&countColor=%23F85D7F)
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=footer)
