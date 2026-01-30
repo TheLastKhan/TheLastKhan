@@ -68,6 +68,15 @@ With a multidisciplinary background in **computer engineering, political science
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheLastKhan&theme=radical)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheLastKhan&theme=radical)
 
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheLastKhan&theme=radical)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheLastKhan&theme=radical&utcOffset=3)
+
+---
+
+## 🔥 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=TheLastKhan&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 ---
 
 ## 📈 Activity Graph
