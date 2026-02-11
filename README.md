@@ -97,11 +97,15 @@ With a multidisciplinary background in **computer engineering, political science
 
 <br>
 
+<br>
+
 ---
 
 ## 😂 Random Dev Joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+
+<br>
 
 <br>
 
