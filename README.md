@@ -119,7 +119,7 @@ With a multidisciplinary background in **computer engineering, political science
 
 ## ☕ Please Support Me!
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/thelastkhan)
+[![BuyMeACoffee](https://custom-icon-badges.demolab.com/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/thelastkhan)
 
 ---
 
@@ -135,7 +135,7 @@ With a multidisciplinary background in **computer engineering, political science
 
 ## 🐣 Check out my website!
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fthelastkhan.github.io&style=for-the-badge&label=thelastkhan.github.io)](https://thelastkhan.github.io)
+[![Website](https://custom-icon-badges.demolab.com/badge/thelastkhan.github.io-4285F4?logo=globe&logoColor=white)](https://thelastkhan.github.io)
 
 ---
 
