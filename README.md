@@ -135,7 +135,7 @@ With a multidisciplinary background in **computer engineering, political science
 
 ## 🐣 Check out my website!
 
-### [thelastkhan.github.io](https://thelastkhan.github.io)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fthelastkhan.github.io&style=for-the-badge&label=thelastkhan.github.io)](https://thelastkhan.github.io)
 
 ---
 
