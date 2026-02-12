@@ -135,7 +135,7 @@ With a multidisciplinary background in **computer engineering, political science
 
 ## 🐣 Check out my website!
 
-[![Website](https://custom-icon-badges.demolab.com/badge/thelastkhan.github.io-4285F4?logo=globe&logoColor=white)](https://thelastkhan.github.io)
+[![Website](https://custom-icon-badges.demolab.com/badge/thelastkhan.github.io-8B5CF6?logo=globe&logoColor=white)](https://thelastkhan.github.io)
 
 ---
 
