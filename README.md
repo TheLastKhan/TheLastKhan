@@ -145,7 +145,7 @@ With a multidisciplinary background in **computer engineering, political science
 
 <br>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTheLastKhan&label=Total%20Visitors&labelColor=%23697689&countColor=%23F85D7F)
+![Visitors](https://komarev.com/ghpvc/?username=TheLastKhan&color=F85D7F&style=flat&label=Total+Visitors)
 
 </div>
 
