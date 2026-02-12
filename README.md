@@ -39,24 +39,24 @@ With a multidisciplinary background in **computer engineering, political science
 ![Skills](https://skillicons.dev/icons?i=git,github,vscode,discord,postman&theme=dark)
 
 ### 📡 Network & System
-![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Firewalls](https://img.shields.io/badge/Firewalls-FF6F00?style=for-the-badge&logo=fortinet&logoColor=white)
-![VPN](https://img.shields.io/badge/VPN-4B8BBE?style=for-the-badge&logo=wireguard&logoColor=white)  
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux Server](https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://custom-icon-badges.demolab.com/badge/Cisco_CCNA-1BA0D7?logo=cisco&logoColor=white)
+![Firewalls](https://custom-icon-badges.demolab.com/badge/Firewalls-FF6F00?logo=fortinet&logoColor=white)
+![VPN](https://custom-icon-badges.demolab.com/badge/VPN-4B8BBE?logo=wireguard&logoColor=white)  
+![Windows Server](https://custom-icon-badges.demolab.com/badge/Windows_Server-0078D6?logo=windows&logoColor=white)
+![Linux Server](https://custom-icon-badges.demolab.com/badge/Linux_Server-FCC624?logo=linux&logoColor=black)
 
 ### 🛡️ Cybersecurity
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
-![Pentesting](https://img.shields.io/badge/Pentesting-E34F26?style=for-the-badge&logo=metasploit&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Kali Linux](https://custom-icon-badges.demolab.com/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white)
+![Ethical Hacking](https://custom-icon-badges.demolab.com/badge/Ethical_Hacking-000000?logo=hackthebox&logoColor=9FEF00)
+![Pentesting](https://custom-icon-badges.demolab.com/badge/Pentesting-E34F26?logo=metasploit&logoColor=white)  
+![Wireshark](https://custom-icon-badges.demolab.com/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
+![Burp Suite](https://custom-icon-badges.demolab.com/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white)
+![Metasploit](https://custom-icon-badges.demolab.com/badge/Metasploit-2596CD?logo=metasploit&logoColor=white)
 <br>
-![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-7D4698?style=for-the-badge&logo=ghidra&logoColor=white)
-![Secure Coding](https://img.shields.io/badge/Secure_Coding-00ADD8?style=for-the-badge&logo=owasp&logoColor=white)
+![Reverse Engineering](https://custom-icon-badges.demolab.com/badge/Reverse_Engineering-7D4698?logo=ghidra&logoColor=white)
+![Secure Coding](https://custom-icon-badges.demolab.com/badge/Secure_Coding-00ADD8?logo=owasp&logoColor=white)
 <br>
-![Vulnerability Scanning](https://img.shields.io/badge/Vulnerability_Scanning-1679A7?style=for-the-badge&logo=nmap&logoColor=white)  
+![Vulnerability Scanning](https://custom-icon-badges.demolab.com/badge/Vulnerability_Scanning-1679A7?logo=nmap&logoColor=white)  
 
 
 ---
