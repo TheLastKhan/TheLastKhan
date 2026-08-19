@@ -119,9 +119,9 @@ With a multidisciplinary background in **computer engineering, political science
 
 ## ☕ Please Support Me!
 
-[![BuyMeACoffee](https://custom-icon-badges.demolab.com/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/thelastkhan)
-
 [![Patreon](https://custom-icon-badges.demolab.com/badge/Support%20me%20on-Patreon-E85B46?logo=patreon&logoColor=white)](https://www.patreon.com/c/TheLastKhan)
+
+[![BuyMeACoffee](https://custom-icon-badges.demolab.com/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/thelastkhan)
 
 ---
 
